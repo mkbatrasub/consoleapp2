@@ -1,0 +1,12 @@
+D:\Manoj\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.exe
+D:\Manoj\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.deps.json
+D:\Manoj\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.runtimeconfig.json
+D:\Manoj\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.runtimeconfig.dev.json
+D:\Manoj\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.dll
+D:\Manoj\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.pdb
+D:\Manoj\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.csproj.CoreCompileInputs.cache
+D:\Manoj\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.AssemblyInfoInputs.cache
+D:\Manoj\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.AssemblyInfo.cs
+D:\Manoj\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.dll
+D:\Manoj\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.pdb
+D:\Manoj\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.genruntimeconfig.cache
